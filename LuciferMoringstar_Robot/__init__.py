@@ -29,19 +29,19 @@ HELP = """
 
 <b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT></b>
+@idnightmoviesofficial></b>
 """
 
 ABOUT = """
-➥ Name : Auto Filter With IMDB
+➥ Name : ➪𝚁𝙾𝙲𝙺𝚈 𝙱𝙷𝙰𝙸✞︎
     
-➥ Credits : Subin
+➥ Credits : NARUTO
 
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ Editing : [NARUTO](t.me/TEAM_NARUTO_GRUOP)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Source Code : [Click Me](https://github.com/SPIDEY-USER/LuciferMoringstar_Robot)
 """
