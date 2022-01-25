@@ -94,7 +94,7 @@ def get_reply_markup(query):
         ],[
         InlineKeyboardButton('🖥️ Deploy Video 🖥️', url=f'{TUTORIAL}')
         ],[
-        InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat=query)
+        InlineKeyboardButton('🔍 Search again 🔎', @ROCKYBHAI_FILTERBOT)
         ]]
     return InlineKeyboardMarkup(buttons)
 
